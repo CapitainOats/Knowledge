@@ -1,8 +1,8 @@
-#Computer Science
+# Computer Science
 
 [CS textbooks](https://csgordon.github.io/books.html)
 
-[Learn Quantum Computation using Qiskit] (https://qiskit.org/textbook/preface.html)
+[Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html)
 
 [More challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html)
 
